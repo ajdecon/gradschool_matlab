@@ -1,0 +1,13 @@
+Find here miscellaneous Matlab scripts I've written over the past few years 
+to analyze the data I've worked with in the Lewis group.  The majority
+of these files are poorly named, badly commented, and not at all organized.
+I'm archiving them here and hoping that I can get them organized sometime...
+especially as Steve will probably need to make some sense of them.
+
+The majority of what's here pertains to doing particle tracking on 
+images of colloidal rods, and calculating things like their MSD.
+There's also some code in here for working with images of various other
+interesting soft materials.
+
+Nearly everything in this is dependent on the Matlab Image Processing 
+Toolbox.
